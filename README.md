@@ -6,3 +6,9 @@ system correlates the data with a training dataset, enabling it to
 predict the individual's emotional state with precision, offering
 valuable insights into the user's emotional well-being in real-time
 scenarios.
+
+
+
+https://github.com/user-attachments/assets/621c1ecd-2b95-4a34-8190-ae87f0a5427d
+
+
